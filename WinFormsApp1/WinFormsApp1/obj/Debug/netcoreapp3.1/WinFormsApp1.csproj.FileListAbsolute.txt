@@ -1,0 +1,17 @@
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+E:\STANKIN\semester 5\Интеллектуальные и экспертные системы\LAB\Lab1\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Properties.Resources.resources
